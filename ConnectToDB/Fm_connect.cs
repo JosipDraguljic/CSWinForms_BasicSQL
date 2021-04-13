@@ -22,7 +22,7 @@ namespace ConnectToDB
         private void btn_connect_Click(object sender, EventArgs e)
         {
             //DataSource = @"LAPTOP-DNBB2GN8\SQLEXPRESS";
-            //DBName = "test";
+            //,DBName = "test";
             //UserName = "sa";
             //UserPassword = "Kristo4ever+";
 
